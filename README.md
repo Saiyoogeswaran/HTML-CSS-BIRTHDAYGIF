@@ -1,4 +1,4 @@
-# Birthday Celebration Page
+# Birthday Celebration Page 🎉🎉
 
 This project is a simple and delightful birthday celebration page created using HTML and CSS. It’s designed to bring joy and festivity to special occasions, allowing you to send heartfelt birthday wishes to your loved ones.
 
