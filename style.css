@@ -51,7 +51,7 @@ body {
     text-align: center;
 }
 .Gift-image{
-    background-image: url('/4_Birthday_GIF/images/gift_opening.jpg');
+    background-image: url('./images/gift_opening.jpg');
     background-size: cover;
     width: 400px;
     height: 400px;
